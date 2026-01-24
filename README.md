@@ -11,5 +11,5 @@ Goal:
 - Learn problem-solving uding python
 - Stay consistent and improve daily
 
-Start with dicipline , not perfaction
+Start with dicipline , not perfection
 
